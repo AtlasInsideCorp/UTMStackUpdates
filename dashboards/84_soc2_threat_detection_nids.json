@@ -26,7 +26,7 @@
             "filterType": [
                 {
                     "operator": "IS",
-                    "field": "logx.type.keyword",
+                    "field": "dataType.keyword",
                     "value": "nids"
                 }
             ],
