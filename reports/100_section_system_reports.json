@@ -10,8 +10,7 @@
             "description": "This report provide audit information over all assets on your network",
             "type": "CUSTOM_PDF",
             "restApiUrl": "api/custom-reports/buildAssetManagement",
-            "restApiMethod": "GET",
-            "module": "ASSET_MANAGEMENT"
+            "restApiMethod": "GET"
         },
         {
             "id": 102,
