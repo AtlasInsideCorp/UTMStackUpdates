@@ -3127,7 +3127,7 @@
                     "pattern": {
                         "id": 10,
                         "pattern": "log-aws-*",
-                        "patternModule": "AWS",
+                        "patternModule": "AWS_IAM_USER",
                         "patternSystem": true
                     }
                 },
@@ -3206,7 +3206,7 @@
                     "pattern": {
                         "id": 10,
                         "pattern": "log-aws-*",
-                        "patternModule": "AWS",
+                        "patternModule": "AWS_IAM_USER",
                         "patternSystem": true
                     }
                 },
@@ -3276,7 +3276,7 @@
                     "pattern": {
                         "id": 10,
                         "pattern": "log-aws-*",
-                        "patternModule": "AWS",
+                        "patternModule": "AWS_IAM_USER",
                         "patternSystem": true
                     }
                 },
@@ -3344,7 +3344,7 @@
                     "pattern": {
                         "id": 10,
                         "pattern": "log-aws-*",
-                        "patternModule": "AWS",
+                        "patternModule": "AWS_IAM_USER",
                         "patternSystem": true
                     }
                 },
@@ -3414,7 +3414,7 @@
                     "pattern": {
                         "id": 10,
                         "pattern": "log-aws-*",
-                        "patternModule": "AWS",
+                        "patternModule": "AWS_IAM_USER",
                         "patternSystem": true
                     }
                 },
@@ -3496,7 +3496,7 @@
                     "pattern": {
                         "id": 10,
                         "pattern": "log-aws-*",
-                        "patternModule": "AWS",
+                        "patternModule": "AWS_IAM_USER",
                         "patternSystem": true
                     }
                 },
@@ -4831,7 +4831,7 @@
                     "pattern": {
                         "id": 10,
                         "pattern": "log-aws-*",
-                        "patternModule": "AWS",
+                        "patternModule": "AWS_IAM_USER",
                         "patternSystem": true
                     }
                 },

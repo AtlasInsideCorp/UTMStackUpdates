@@ -139,7 +139,7 @@
             "position": 200,
             "isActive": false,
             "isAction": false,
-            "module": "AWS",
+            "module": "AWS_IAM_USER",
             "authorities": [
                 "ROLE_ADMIN",
                 "ROLE_USER"
