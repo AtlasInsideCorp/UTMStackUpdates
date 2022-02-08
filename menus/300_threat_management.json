@@ -69,7 +69,7 @@
             "parentId": 300,
             "name": "Alerts: AWS",
             "url": "data/alert/view?dataType.keyword=IS->aws&alertType=ALERT",
-            "position": 300,
+            "position": 3,
             "isActive": false,
             "isAction": false,
             "module": "AWS_IAM_USER",
